@@ -1,1 +1,1 @@
-module.exports = "sub1";
+module.exports = "sub1-modified";
