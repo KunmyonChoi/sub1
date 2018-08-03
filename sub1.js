@@ -1,1 +1,2 @@
-export let value = "sub1";
+'export let value = "sub1";
+module.exports = "sub1";
